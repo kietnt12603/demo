@@ -1,0 +1,7 @@
+.list-social a{
+    font-size: 25px;
+    color: black;
+}
+.list-social a:hover{
+    color: red;
+}
